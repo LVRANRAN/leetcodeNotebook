@@ -4,6 +4,7 @@ record some thoughts
 
 1. topological sort
 * Course Schedule: https://leetcode.com/problems/course-schedule/ <br>
+* Course Schedule ii: https://leetcode.com/problems/course-schedule-ii/ <br>
   Main ideas: use inDegree array to record the prerequisites relationship between courses, use stack to control and traverse the whole graph. 
   ```java
   public boolean canFinish(int numCourses, int[][] prerequisites) {

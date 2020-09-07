@@ -1,0 +1,2 @@
+# leetcodeNotebook
+record some thoughts

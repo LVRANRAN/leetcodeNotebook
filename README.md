@@ -32,3 +32,6 @@ record some thoughts
     return count == numCourses;
   }
   ```
+
+2. binary search
+* Good summary from Grandyang: https://www.cnblogs.com/grandyang/p/6854825.html

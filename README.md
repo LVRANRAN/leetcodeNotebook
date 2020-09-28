@@ -41,4 +41,4 @@ record some thoughts
 * Combinations: https://leetcode.com/problems/combinations/
 
 4. LCS(Longest Common Subsequence)
-* 1143. Longest Common Subsequence: https://leetcode.com/problems/longest-common-subsequence/
+* Longest Common Subsequence: https://leetcode.com/problems/longest-common-subsequence/
